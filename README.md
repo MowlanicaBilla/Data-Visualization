@@ -12,11 +12,11 @@ Below picture suggests which graph you would like to show depending on their usa
 ![](chart-suggestion.png)
 
 
-Let's check out different ways:
-* Based on Chart
+**_Let's check out different ways:_**
+* **Based on Chart**
   
-* Language and Library
-  - R
+* **Language and Library**
+  - *R*
     * ggplot2 - A plotting system based on the grammar of graphics.
     * ggvis - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
     * lattice - trellis graphics for R
@@ -25,7 +25,7 @@ Let's check out different ways:
     * rgl - 3D Visualization Using OpenGL
     * shiny - Framework for creating interactive applications/visualisations
     * visNetwork - Interactive network visualisations
-  - Python
+  - *Python*
     * altair - Declarative statistical visualizations, based on Vega-Lite.
     * bokeh - Interactive Web Plotting for Python.
     * diagram - Text mode diagrams using UTF-8 characters
@@ -43,7 +43,7 @@ Let's check out different ways:
     * VisPy - High-performance scientific visualization based on OpenGL.
     * vtk - 3D computer graphics, image processing, and visualization that includes a Python interface.
   
-* Representation type
+* *Representation type*
   - Relationship
     * Two-Variables
       - Scatter plot
@@ -61,7 +61,27 @@ Let's check out different ways:
       - 3D Area plot
   - Comparison
     * Among Items
+      - One-Variable per Item
+        * Many Categories
+          - Table with embedded plot(Plot matrix)
+        * Few Categories
+          - Many Items
+            * Ba Chart
+          - Few Items
+            * Column chart
+      - Two-Variable per Item
+        * Variable Width column chart
     * Over time
+      - Many Periods
+        * Cyclical data
+          - Circular Area chart
+        * Non-Cyclical data
+          - Line Chart
+      - Few Periods
+        - Single or few categories
+          * Column chart
+        - Many Categories
+          * Line chart
   - Composition
     * Changing over Time
       - Few periods
@@ -83,7 +103,7 @@ Let's check out different ways:
         * Stacked 100% column chart with sub-components
         
   
-* D3 
-* Deep Learning Visualization
+* *D3*
+* *Deep Learning Visualization*
   
   
