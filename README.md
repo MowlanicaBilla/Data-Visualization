@@ -14,6 +14,15 @@ Below picture suggests which graph you would like to show depending on their usa
 
 **_Let's check out different ways:_**
 * **Based on Chart**
+  - Scatter Plot
+  - Histogram
+  - Bar & Stack Bar Chart
+  - Box Plot
+  - Area Chart
+  - Heat Map
+  - Correlogram
+  - Bubble Area Chart
+  - Pie Chart
   
 * **Language and Library**
   - *R*
@@ -66,7 +75,7 @@ Below picture suggests which graph you would like to show depending on their usa
           - Table with embedded plot(Plot matrix)
         * Few Categories
           - Many Items
-            * Ba Chart
+            * Bar Chart
           - Few Items
             * Column chart
       - Two-Variable per Item
@@ -103,7 +112,8 @@ Below picture suggests which graph you would like to show depending on their usa
         * Stacked 100% column chart with sub-components
         
   
-* *D3*
+* *Interactive plot*
+  - D3
 * *Deep Learning Visualization*
   
   
