@@ -14,16 +14,16 @@ Below picture suggests which graph you would like to show depending on their usa
 
 **_Let's check out different ways:_**
 * **Based on Chart**
-  - Scatter Plot : used to see the relationship between two continuous variables.
-  - Histogram : used to plot continuous variable. It breaks the data into bins and shows frequency distribution of these bins. We can always change the bin size and see the effect it has on visualization.
-  - Bar Chart : used when you want to plot a categorical variable or a combination of continuous and categorical variable.
+  - `Scatter Plot` : used to see the relationship between two continuous variables.
+  - `Histogram` : used to plot continuous variable. It breaks the data into bins and shows frequency distribution of these bins. We can always change the bin size and see the effect it has on visualization.
+  - `Bar Chart` : used when you want to plot a categorical variable or a combination of continuous and categorical variable.
     - Stacked Bar Chart : an advanced version of bar chart, used for visualizing a combination of categorical variables.
-  - Box Plot : used to plot a combination of categorical and continuous variables. This plot is useful for visualizing the spread of the data and detect outliers. It shows five statistically significant numbers- the minimum, the 25th percentile, the median, the 75th percentile and the maximum.
-  - Area Chart : used to show continuity across a variable or data set. It is very much same as line chart and is commonly used for time series plots. Alternatively, it is also used to plot continuous variables and analyze the underlying trends.
-  - Heat Map : uses intensity (density) of colors to display relationship between two or three or many variables in a two dimensional image. It allows you to explore two dimensions as the axis and the third dimension by intensity of color.
-  - Correlogram : used to test the level of co-relation among the variable available in the data set. The cells of the matrix can be shaded or colored to show the co-relation value.Darker the color, higher the co-relation between variables. Positive co-relations are displayed in blue and negative correlations in red color. Color intensity is proportional to the co-relation value
-  - Bubble Area Chart : 
-  - Pie Chart
+  - `Box Plot` : used to plot a combination of categorical and continuous variables. This plot is useful for visualizing the spread of the data and detect outliers. It shows five statistically significant numbers- the minimum, the 25th percentile, the median, the 75th percentile and the maximum.
+  - `Area Chart` : used to show continuity across a variable or data set. It is very much same as line chart and is commonly used for time series plots. Alternatively, it is also used to plot continuous variables and analyze the underlying trends.
+  - `Heat Map` : uses intensity (density) of colors to display relationship between two or three or many variables in a two dimensional image. It allows you to explore two dimensions as the axis and the third dimension by intensity of color.
+  - `Correlogram` : used to test the level of co-relation among the variable available in the data set. The cells of the matrix can be shaded or colored to show the co-relation value.Darker the color, higher the co-relation between variables. Positive co-relations are displayed in blue and negative correlations in red color. Color intensity is proportional to the co-relation value
+  - `Bubble Area Chart` : 
+  - `Pie Chart`
   
 * **Language and Library**
   - *R*
