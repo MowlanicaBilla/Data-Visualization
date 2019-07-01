@@ -27,7 +27,7 @@ Below picture suggests which graph you would like to show depending on their usa
   
 * **Language and Library**
   - *R*
-    * ggplot2 - A plotting system based on the grammar of graphics.
+    * [ggplot2](https://github.com/MowlanicaBilla/Data-Visualization/blob/master/R/ggplot2.ipynb) - A plotting system based on the grammar of graphics.
     * ggvis - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
     * lattice - trellis graphics for R
     * plotly - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
